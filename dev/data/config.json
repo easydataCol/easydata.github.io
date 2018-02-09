@@ -1,11 +1,11 @@
 {
 	"site": {
 		"lang": "en",
-		"title": "Design studio template",
+		"title": "EasyData",
 		"titleDelim": " | ",
-		"description": "Free charity website template",
-		"keywords": "html template, theme, freebie, opensource",
-		"url": "http://website-templates.github.io/design-studio_one-page-template"
+		"description": "From data to decisions",
+		"keywords": "bigdata, Analytics, data, opensource",
+		"url": "http://easydata.com.co"
 	},
 	"modules": {
 		"googleFonts": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
